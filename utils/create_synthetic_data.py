@@ -378,7 +378,7 @@ if __name__ == "__main__":
     parser.add_argument('--insert_mode', type=int, default=0, choices=[0,1,2,3,4],
                         help='0 means using the left part, 1 means using the middle part, 2 means using the right part,'
                              '3 means randomly selecting, 4 means selecting the tokens with highest weight')
-    parser.add_argument('--generate_mode', type=int, default=1, choices=[0, 1, 2],
+    parser.add_argument('--generate_mode', type=int, default=0, choices=[0, 1, 2],
                         help = '0 for random, 1 for lm, 2 for combination')
     parser.add_argument('--ratio', type=float, default=0,
                         help = 'ratio for the random generation mode')
