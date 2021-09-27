@@ -37,7 +37,7 @@ All our experiments are conducted on [One-Billion-Word](http://www.statmt.org/lm
 sentences from each dataset as the training and validation sets. 
 If you want to train the model from scratch, you should download the corresponding data first 
 and put them in the corresponding directory, i.e. data/one-billion-words (data/yelp_review).
-Note we only put several sentences in the data/one-billion-word/train.txt and data/one-billion-word/dev.txt. 
+Note we only put several sentences in the data/one-billion-words/train.txt and data/one-billion-words/dev.txt. 
 
 ****
 ## Try our model with well-trained model checkpoints 
