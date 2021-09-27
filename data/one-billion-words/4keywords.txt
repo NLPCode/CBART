@@ -1,0 +1,21 @@
+0
+Keywords:	faces allegedly agents questioned
+Ground truth:	Siddiqui faces an attempted murder charge for allegedly trying to shoot agents while she was being questioned .
+1
+Keywords:	projects make pay way
+Ground truth:	With debts of over $ 40 billion , it will struggle to afford projects that make political sense , but cannot pay their way .
+2
+Keywords:	officials support criminal begun
+Ground truth:	U.S. military officials have said Iranian support for " criminal " Shiite militias battling Iraqi and American troops in Baghdad has begun to alarm the Iraqi government .
+3
+Keywords:	put percentage point nearly
+Ground truth:	Opinion polls put the Tories one percentage point behind Labour ; but in the final result , the Conservatives won by nearly eight percentage points .
+4
+Keywords:	currently land forced point
+Ground truth:	Then you can write how the zionist currently squat on 83 % of the land , while the palestinians were forced into ghettos at gun point .
+5
+Keywords:	went missing weeks end
+Ground truth:	He went missing in the summer of 2006 , weeks before four other prisoners went on the run at the end of July .
+6
+Keywords:	analysts suggested figures sector
+Ground truth:	Some analysts have suggested that the two relatively benign figures suggest the sector may be stabilising .

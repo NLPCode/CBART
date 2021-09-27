@@ -1,0 +1,2 @@
+transformers==3.0.2
+pympler==0.8

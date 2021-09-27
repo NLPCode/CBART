@@ -1,0 +1,21 @@
+0
+Keywords:	came low expectations yelp
+Ground truth:	came here with low expectations based on the yelp reviews .
+1
+Keywords:	joints yelp damn good
+Ground truth:	one of the latest joints getting major yelp buzz is the goodwich . not just any ordinary sandwich shop , but a damn good sandwich shop !
+2
+Keywords:	kind poke green cheesecake
+Ground truth:	very kind and considerate service ! and their poke box and green tea cheesecake is awesome too !
+3
+Keywords:	club couple good job
+Ground truth:	zipps has hosted my car club luncheon a couple of times and have done a good job .
+4
+Keywords:	ice flavors delicious tastes
+Ground truth:	homemade ice cream with genuine asian flavors . the taro is delicious and tastes like real taro !
+5
+Keywords:	spot atmosphere needs prices
+Ground truth:	the food was really good . the service was spot on . the atmosphere was a little dull . needs a facelift to make up for the expensive prices .
+6
+Keywords:	beautiful view bellagio street
+Ground truth:	solid food ; great service . beautiful view of the bellagio fountains across the street .
