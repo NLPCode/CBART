@@ -1,7 +1,7 @@
 
 # README for CBART
 This repository contains the implementation of the EMNLP 2021 paper: 
-"[**Parallel Refinements for Lexically Constrained Text Generation with BART**](https://none)".
+"[**Parallel Refinements for Lexically Constrained Text Generation with BART**](https://arxiv.org/abs/2109.12487)".
 ****
 ##  Abstract
 Lexically constrained text generation aims to control the generated text by incorporating
@@ -113,7 +113,7 @@ python main.py --gpu 7 --num_keywords 4 --do_sample 1 --top_k 5 --decoder_chain 
 
 
 ## Citation
-If you want to use this code in your research, you can cite our [paper](https://none):
+If you want to use this code in your research, you can cite our [paper](https://arxiv.org/abs/2109.12487):
 ```bash
 
 @inproceedings{he2021cbart,
