@@ -34,7 +34,7 @@ pip install pympler==0.8
 ## Dataset
 All our experiments are conducted on [One-Billion-Word](http://www.statmt.org/lm-benchmark/) and 
 [Yelp review](https://www.yelp.com/dataset) corpora. In this paper, we choose 1M, 0.1M
-sentences from each dataset as the training and validation sets (The full data used in this paper are avalible at https://drive.google.com/drive/folders/1Dj7VX2CjSn3-g7FEYuJrT5_JWGdsAHjE?usp=sharing). 
+sentences from each dataset as the training and validation sets (The full data used in this paper are available at https://drive.google.com/drive/folders/1Dj7VX2CjSn3-g7FEYuJrT5_JWGdsAHjE?usp=sharing). 
 If you want to train the model from scratch, you should download the corresponding data first 
 and put them in the corresponding directory, i.e. data/one-billion-words (data/yelp_review).
 Note we only put several sentences in the data/one-billion-words/train.txt and data/one-billion-words/dev.txt. 
