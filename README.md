@@ -116,11 +116,18 @@ python main.py --gpu 7 --num_keywords 4 --do_sample 1 --top_k 5 --decoder_chain 
 If you want to use this code in your research, you can cite our [paper](https://arxiv.org/abs/2109.12487):
 ```bash
 
-@inproceedings{he2021cbart,
-  title={Parallel Refinements for Lexically Constrained Text Generation with BART},
-  author={He, Xingwei},
-  booktitle={Proceedings of EMNLP},
-  year={2021}
+@inproceedings{he-2021-parallel,
+    title = "Parallel Refinements for Lexically Constrained Text Generation with {BART}",
+    author = "He, Xingwei",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.681",
+    doi = "10.18653/v1/2021.emnlp-main.681",
+    pages = "8653--8666",
+}
 }
 
 ```
